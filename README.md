@@ -2,7 +2,7 @@
 - 👀 Anthony Silveira dos Santos.
 - 🖥️  Estagiário Senac Idiomas.
 - 💞️ Front-End
-- 📫 Sistema de Informação 5/8.
+- 📫 Sistema de Informação 6/8.
 
 
 <div align="center">
