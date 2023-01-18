@@ -1,8 +1,8 @@
 - 👋 Hi
 - 👀 Anthony Silveira dos Santos.
-- 🖥️  Estagiário Senac Idiomas.
+- 🖥️  Estagiário MegaSoft.
 - 💞️ Front-End
-- 📫 Sistema de Informação 6/8.
+- 📫 Sistema de Informação 7/8.
 
 
 <div align="center">
