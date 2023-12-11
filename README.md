@@ -1,8 +1,7 @@
 - 👋 Hi
-- 👀 Anthony Silveira dos Santos.
-- 🖥️  Estagiário MegaSoft.
-- 💞️ Front-End
-- 📫 Sistema de Informação 7/8.
+- 👀 Anthony Silveira dos Santos. 
+- 👨‍💻 Develop Full Stack 
+- 📫 Sistema de Informação 8/8.
 
 
 <div align="center">
